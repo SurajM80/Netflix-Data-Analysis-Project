@@ -1,6 +1,6 @@
 # Netflix Content Library: An Exploratory Data Analysis
 
-![Netflix Logo](<img src="https://i.imgur.com/XqQZ4uV.png" alt="Netflix Logo" width="250"/>)
+![Netflix Logo]("D:\Downloads\Netflix_icon.svg.png")
 
 ## 📊 Project Overview
 
